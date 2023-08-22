@@ -52,6 +52,10 @@ loginBtn.addEventListener("click", function(){
 
 function second_page(){
     window.location.replace("list.html")
-}          
+}
+
+function reg_btn(){
+    window.location.replace("Register.html")
+}
 
 
