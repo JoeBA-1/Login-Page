@@ -30,3 +30,6 @@
     height: 35px;
     text-align: center;
 }
+.text-btn:hover{
+    cursor: pointer ;
+}

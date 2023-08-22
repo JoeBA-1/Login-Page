@@ -55,7 +55,7 @@ function second_page(){
 }
 
 function reg_btn(){
-    window.location.replace("Register.html")
+    window.location.replace("Sign_up.html")
 }
 
 
