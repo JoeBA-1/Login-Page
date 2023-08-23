@@ -4,7 +4,10 @@ let loginBtn = document.getElementById("Loginbtn")
 let signupBtnEl = document.getElementById("signupbtn")
 document.title = "Log In"
 let counter = 0
+
+export function userpass(){
 let users = [["admin01","123"],["admin02","234"],["admin03","345"]]
+}
 
 
 // loginBtn.addEventListener("click", function(){
